@@ -1,0 +1,8 @@
+/* pour l'image d'arrière plan */
+body{
+    background-image: linear-gradient(to right,LightSteelBlue,deepskyblue)
+}
+h1{
+font-size:45px;	
+font-family: Arial;
+}
